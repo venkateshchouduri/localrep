@@ -1,0 +1,2 @@
+git init 
+   to making a local folder as a repository or inthe folder intilalised git
